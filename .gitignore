@@ -1,0 +1,21 @@
+# IntelliJ / PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Umgebungsdateien / Virtual Envs
+.env
+env/
+venv/
+
+# Mac-/Windows-Systemdateien
+.DS_Store
+Thumbs.db
