@@ -19,4 +19,9 @@ venv/
 # Mac-/Windows-Systemdateien
 .DS_Store
 Thumbs.db
-Data/job_descriptions.csv.zip
+
+# Einzelne große CSV-Datei ignorieren
+Data/Job Posting.csv
+
+# gesamten Notebooks-Ordner ignorieren
+notebooks/
