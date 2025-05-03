@@ -25,3 +25,6 @@ Data/Job Posting.csv
 
 # gesamten Notebooks-Ordner ignorieren
 notebooks/
+
+# Docker‐Compose Config am Projekt-Root ignorieren
+docker-compose.yml
