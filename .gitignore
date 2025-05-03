@@ -19,3 +19,4 @@ venv/
 # Mac-/Windows-Systemdateien
 .DS_Store
 Thumbs.db
+Data/job_descriptions.csv.zip
