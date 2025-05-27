@@ -1,0 +1,98 @@
+[
+  {
+    "name": "All-Hands-AI/OpenHands",
+    "description": "🙌 OpenHands: Code Less, Make More",
+    "language": "Python",
+    "stars": "55081",
+    "url": "https://github.com/All-Hands-AI/OpenHands",
+    "scraped_at": "22.05.25"
+  },
+  {
+    "name": "appwrite/appwrite",
+    "description": "The open-source Vercel alternative",
+    "language": "TypeScript",
+    "stars": "49740",
+    "url": "https://github.com/appwrite/appwrite",
+    "scraped_at": "22.05.25"
+  },
+  {
+    "name": "panaversity/learn-agentic-ai",
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+    "language": "Jupyter Notebook",
+    "stars": "2390",
+    "url": "https://github.com/panaversity/learn-agentic-ai",
+    "scraped_at": "22.05.25"
+  },
+  {
+    "name": "microsoft/WSL",
+    "description": "Windows Subsystem for Linux",
+    "language": "C++",
+    "stars": "26573",
+    "url": "https://github.com/microsoft/WSL",
+    "scraped_at": "22.05.25"
+  },
+  {
+    "name": "usebruno/bruno",
+    "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+    "language": "JavaScript",
+    "stars": "34016",
+    "url": "https://github.com/usebruno/bruno",
+    "scraped_at": "22.05.25"
+  },
+  {
+    "name": "HeyPuter/puter",
+    "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+    "language": "JavaScript",
+    "stars": "32152",
+    "url": "https://github.com/HeyPuter/puter",
+    "scraped_at": "22.05.25"
+  },
+  {
+    "name": "usememos/memos",
+    "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "language": "Go",
+    "stars": "40840",
+    "url": "https://github.com/usememos/memos",
+    "scraped_at": "22.05.25"
+  },
+  {
+    "name": "modelcontextprotocol/registry",
+    "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "language": "Go",
+    "stars": "702",
+    "url": "https://github.com/modelcontextprotocol/registry",
+    "scraped_at": "22.05.25"
+  },
+  {
+    "name": "ZJU-LLMs/Foundations-of-LLMs",
+    "description": "No description",
+    "language": "N/A",
+    "stars": "10455",
+    "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+    "scraped_at": "22.05.25"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "32261",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "scraped_at": "22.05.25"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stars": "172136",
+    "url": "https://github.com/microsoft/vscode",
+    "scraped_at": "22.05.25"
+  },
+  {
+    "name": "huggingface/huggingface.js",
+    "description": "Utilities to use the Hugging Face Hub API",
+    "language": "TypeScript",
+    "stars": "1788",
+    "url": "https://github.com/huggingface/huggingface.js",
+    "scraped_at": "22.05.25"
+  }
+]

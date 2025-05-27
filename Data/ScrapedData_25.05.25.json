@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Fosowl/agenticSeek",
+    "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
+    "language": "Python",
+    "stars": "3944",
+    "url": "https://github.com/Fosowl/agenticSeek",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "mindsdb/mindsdb",
+    "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+    "language": "Python",
+    "stars": "29536",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "microsoft/qlib",
+    "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",
+    "language": "Python",
+    "stars": "20890",
+    "url": "https://github.com/microsoft/qlib",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "groupultra/telegram-search",
+    "description": "🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。",
+    "language": "TypeScript",
+    "stars": "1259",
+    "url": "https://github.com/groupultra/telegram-search",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "ziglang/zig",
+    "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "language": "Zig",
+    "stars": "39101",
+    "url": "https://github.com/ziglang/zig",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "comfyanonymous/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "language": "Python",
+    "stars": "77739",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "hiyouga/LLaMA-Factory",
+    "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "language": "Python",
+    "stars": "50064",
+    "url": "https://github.com/hiyouga/LLaMA-Factory",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Shell",
+    "stars": "9796",
+    "url": "https://github.com/anthropics/claude-code",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "shadps4-emu/shadPS4",
+    "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+    "language": "C++",
+    "stars": "22390",
+    "url": "https://github.com/shadps4-emu/shadPS4",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "lobehub/lobe-chat",
+    "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.",
+    "language": "TypeScript",
+    "stars": "61236",
+    "url": "https://github.com/lobehub/lobe-chat",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "microsoft/typescript-go",
+    "description": "Staging repo for development of native port of TypeScript",
+    "language": "Go",
+    "stars": "19982",
+    "url": "https://github.com/microsoft/typescript-go",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "anthropics/courses",
+    "description": "Anthropic's educational courses",
+    "language": "Jupyter Notebook",
+    "stars": "11699",
+    "url": "https://github.com/anthropics/courses",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend & API",
+    "language": "C#",
+    "stars": "39776",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "322758",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "reactos/reactos",
+    "description": "A free Windows-compatible Operating System",
+    "language": "C",
+    "stars": "15573",
+    "url": "https://github.com/reactos/reactos",
+    "scraped_at": "25.05.25"
+  },
+  {
+    "name": "duixcom/Duix.Heygem",
+    "description": "No description",
+    "language": "C",
+    "stars": "8863",
+    "url": "https://github.com/duixcom/Duix.Heygem",
+    "scraped_at": "25.05.25"
+  }
+]
