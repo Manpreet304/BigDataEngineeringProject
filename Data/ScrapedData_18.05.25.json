@@ -1,0 +1,130 @@
+[
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "stars": "23043",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "341996",
+    "url": "https://github.com/public-apis/public-apis",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "27995",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "mem0ai/mem0",
+    "description": "Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.",
+    "language": "Python",
+    "stars": "31220",
+    "url": "https://github.com/mem0ai/mem0",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+    "language": "JavaScript",
+    "stars": "124768",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "happycola233/tchMaterial-parser",
+    "description": "国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。",
+    "language": "Python",
+    "stars": "1773",
+    "url": "https://github.com/happycola233/tchMaterial-parser",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "trycua/cua",
+    "description": "c/ua is the Docker Container for Computer-Use AI Agents.",
+    "language": "Python",
+    "stars": "7372",
+    "url": "https://github.com/trycua/cua",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "xming521/WeClone",
+    "description": "🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA",
+    "language": "Python",
+    "stars": "10187",
+    "url": "https://github.com/xming521/WeClone",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "stars": "95276",
+    "url": "https://github.com/n8n-io/n8n",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "Capsize-Games/airunner",
+    "description": "Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows",
+    "language": "Python",
+    "stars": "1032",
+    "url": "https://github.com/Capsize-Games/airunner",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "th-ch/youtube-music",
+    "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+    "language": "TypeScript",
+    "stars": "20325",
+    "url": "https://github.com/th-ch/youtube-music",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "facebookresearch/fairchem",
+    "description": "FAIR Chemistry's library of machine learning methods for chemistry",
+    "language": "Python",
+    "stars": "1349",
+    "url": "https://github.com/facebookresearch/fairchem",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "itdoginfo/podkop",
+    "description": "Dev podkop",
+    "language": "Shell",
+    "stars": "486",
+    "url": "https://github.com/itdoginfo/podkop",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "neondatabase/neon",
+    "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "language": "Rust",
+    "stars": "17830",
+    "url": "https://github.com/neondatabase/neon",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "google/perfetto",
+    "description": "Performance instrumentation and tracing for Android, Linux and Chrome",
+    "language": "C++",
+    "stars": "3973",
+    "url": "https://github.com/google/perfetto",
+    "scraped_at": "18.05.25"
+  },
+  {
+    "name": "CopilotKit/CopilotKit",
+    "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+    "language": "TypeScript",
+    "stars": "19189",
+    "url": "https://github.com/CopilotKit/CopilotKit",
+    "scraped_at": "18.05.25"
+  }
+]
