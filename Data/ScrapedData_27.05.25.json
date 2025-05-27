@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Fosowl/agenticSeek",
+    "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
+    "language": "Python",
+    "stars": "8102",
+    "url": "https://github.com/Fosowl/agenticSeek",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "groupultra/telegram-search",
+    "description": "🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。",
+    "language": "TypeScript",
+    "stars": "1842",
+    "url": "https://github.com/groupultra/telegram-search",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "microsoft/qlib",
+    "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",
+    "language": "Python",
+    "stars": "22436",
+    "url": "https://github.com/microsoft/qlib",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "mlabonne/llm-course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "language": "Jupyter Notebook",
+    "stars": "53071",
+    "url": "https://github.com/mlabonne/llm-course",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend & API",
+    "language": "C#",
+    "stars": "40095",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "stars": "94265",
+    "url": "https://github.com/iptv-org/iptv",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "323738",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "lobehub/lobe-chat",
+    "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.",
+    "language": "TypeScript",
+    "stars": "61663",
+    "url": "https://github.com/lobehub/lobe-chat",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "XiaoYouChR/Ghost-Downloader-3",
+    "description": "A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.",
+    "language": "Python",
+    "stars": "2491",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "mindsdb/mindsdb",
+    "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+    "language": "Python",
+    "stars": "30264",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "HTML",
+    "stars": "182230",
+    "url": "https://github.com/ossu/computer-science",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "20111",
+    "url": "https://github.com/juspay/hyperswitch",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "uutils/coreutils",
+    "description": "Cross-platform Rust rewrite of the GNU coreutils",
+    "language": "Rust",
+    "stars": "20561",
+    "url": "https://github.com/uutils/coreutils",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "nvim-treesitter/nvim-treesitter",
+    "description": "Nvim Treesitter configurations and abstraction layer",
+    "language": "Tree-sitter Query",
+    "stars": "12030",
+    "url": "https://github.com/nvim-treesitter/nvim-treesitter",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "langflow-ai/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "language": "Python",
+    "stars": "64384",
+    "url": "https://github.com/langflow-ai/langflow",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "hiyouga/LLaMA-Factory",
+    "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "language": "Python",
+    "stars": "50870",
+    "url": "https://github.com/hiyouga/LLaMA-Factory",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "microsoft/RD-Agent",
+    "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+    "language": "Python",
+    "stars": "4865",
+    "url": "https://github.com/microsoft/RD-Agent",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "slowlydev/f1-dash",
+    "description": "A real-time F1 dashboard",
+    "language": "TypeScript",
+    "stars": "1145",
+    "url": "https://github.com/slowlydev/f1-dash",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "pathwaycom/pathway",
+    "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "language": "Python",
+    "stars": "26020",
+    "url": "https://github.com/pathwaycom/pathway",
+    "scraped_at": "27.05.25"
+  },
+  {
+    "name": "wg-easy/wg-easy",
+    "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+    "language": "TypeScript",
+    "stars": "19297",
+    "url": "https://github.com/wg-easy/wg-easy",
+    "scraped_at": "27.05.25"
+  }
+]

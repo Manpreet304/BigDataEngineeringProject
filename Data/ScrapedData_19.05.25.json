@@ -1,0 +1,106 @@
+[
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "28911",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "344077",
+    "url": "https://github.com/public-apis/public-apis",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "CopilotKit/CopilotKit",
+    "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+    "language": "TypeScript",
+    "stars": "19356",
+    "url": "https://github.com/CopilotKit/CopilotKit",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "th-ch/youtube-music",
+    "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+    "language": "TypeScript",
+    "stars": "20744",
+    "url": "https://github.com/th-ch/youtube-music",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "Stirling-Tools/Stirling-PDF",
+    "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "language": "Java",
+    "stars": "59505",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+    "language": "JavaScript",
+    "stars": "125190",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "kortix-ai/suna",
+    "description": "Suna - Open Source Generalist AI Agent",
+    "language": "TypeScript",
+    "stars": "11563",
+    "url": "https://github.com/kortix-ai/suna",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "zen-browser/desktop",
+    "description": "Welcome to a calmer internet",
+    "language": "C++",
+    "stars": "30259",
+    "url": "https://github.com/zen-browser/desktop",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "tinygrad/tinygrad",
+    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "language": "Python",
+    "stars": "28932",
+    "url": "https://github.com/tinygrad/tinygrad",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "stars": "67002",
+    "url": "https://github.com/ventoy/Ventoy",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "XTLS/Xray-core",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "language": "Go",
+    "stars": "28445",
+    "url": "https://github.com/XTLS/Xray-core",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars": "64547",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "scraped_at": "19.05.25"
+  },
+  {
+    "name": "ed-donner/llm_engineering",
+    "description": "Repo to accompany my mastering LLM engineering course",
+    "language": "Jupyter Notebook",
+    "stars": "1818",
+    "url": "https://github.com/ed-donner/llm_engineering",
+    "scraped_at": "19.05.25"
+  }
+]
