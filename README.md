@@ -124,3 +124,23 @@ Examples:
 This project provides a comprehensive perspective on programming languages:  
 Not only which ones are popular, but also which ones are economically promising — and for whom.
 
+--- 
+
+## Data Access
+
+The datasets used in this project are **not included in this GitHub repository** due to file size limitations.
+
+###  Access the Data
+
+You can access all required data files at the following location:
+
+[http://172.29.16.105:9001/browser/bdenggroup4](http://172.29.16.105:9001/browser/bdenggroup4)
+
+###  Folder Structure on the Data Server
+
+- `CleanedCsvData/` – Preprocessed and cleaned CSV files  
+- `RawCsvData/` – Raw source datasets  
+- `RestAPIData/` – Data retrieved via REST API requests  
+- `ScrapedData/` – Web scraping output  
+
+
